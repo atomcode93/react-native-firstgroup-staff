@@ -1,0 +1,7 @@
+git_url "git@gitlab.commutable.com:first/fastlane-certificates.git"
+git_branch "master"
+
+type "appstore"
+app_identifier "com.commutable.firstgroupstaff"
+username "ross@commutable.com"
+

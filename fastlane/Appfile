@@ -1,0 +1,7 @@
+# iOS
+app_identifier "com.commutable.firstgroupstaff"
+apple_id "ross@commutable.com"
+
+# Android
+json_key_file "./android/keystores/google-play-api-secret.json"
+package_name "com.commutable.firstgroupstaff"

@@ -1,0 +1,14 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '8.0'
+use_frameworks!
+
+#project 'FirstStudentConnect.xcodeproj'
+
+target 'FirstStudentConnect' do
+  pod 'Fabric', '1.6.13'
+  pod 'Crashlytics', '3.8.6'
+  pod 'FBSDKCoreKit', '4.26.0'
+  pod 'FBSDKLoginKit', '4.26.0'
+  pod 'FBSDKShareKit', '4.26.0'
+  pod 'GoogleSignIn', '4.1.0'
+end
